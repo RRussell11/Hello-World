@@ -1,5 +1,5 @@
 # Hello-World
 Hello World!
 New developer in the road!
-I like Java, Phyton, Node.js
-Prefer pitzza + salad are health issues!
+I like Java,Javascript, Phyton, Node.js
+Prefer pizza + salad -> health issues!
